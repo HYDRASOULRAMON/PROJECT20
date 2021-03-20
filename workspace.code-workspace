@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\TREX"
+		},
+		{
+			"path": "..\\..\\CLASS 20"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CLASS 20"
+	}
+}
